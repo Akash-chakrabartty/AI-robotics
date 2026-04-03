@@ -47,13 +47,7 @@ images/ – Robot and project images
 report/ – Project report document
 docs/ – Presentation slides
 
-Team Members
 
-- Akash Chakrabartty
-- Md Sarwar Islam
-- MD Sajid Tousif
-- Bikram Sardar
-- Bimochan Tiwari
 
 Future Improvements
 
