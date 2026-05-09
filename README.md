@@ -47,7 +47,53 @@ images/ – Robot and project images
 report/ – Project report document
 docs/ – Presentation slides
 
+Skip to content
+Akash-chakrabartty
+AI-robotics
+Repository navigation
+Code
+Issues
+Pull requests
+Agents
+Actions
+Projects
+Wiki
+Security and quality
+Insights
+Settings
+Commit 807c309
+Akash-chakrabartty
+Akash-chakrabartty
+authored
+on Apr 4
+Verified
+edit
+Removed team members section from the README.
+main
+1 parent 
+8c3e708
+ commit 
+807c309
+1 file changed
 
+-6
+Lines changed: 0 additions & 6 deletions
+File tree
+Filter files…
+README.md
+Search within code
+ 
+‎README.md‎
+-6
+Lines changed: 0 additions & 6 deletions
+
+Team Members
+
+- Akash Chakrabartty
+- Md Sarwar Islam
+- MD Sajid Tousif
+- Bikram Sardar
+- Bimochan Tiwari
 
 Future Improvements
 
